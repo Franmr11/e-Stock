@@ -1,0 +1,50 @@
+body{
+    /* maquetación */
+    display: grid;
+    /* This defines the number of horizontal columns and how wide they all are */
+    grid-template-columns: 20vw auto 20vw ;
+    /* This determines the number of verticle rows and their respective heights */
+    grid-template-rows: 7vh 93vh;
+    background-color: #f5f8fa;
+    color: #636b6f;
+}
+#app{
+    /* grid (<row-start> / <column-start> / <row-end> / <column-end>) */
+    grid-area: 1 / 1 / 2 / 4;
+}
+#body_formulario{
+    grid-area: 2 / 2 / 3 / 3;
+    margin-top: 5%;
+}
+.container_body{
+    grid-area: 2 / 2 / 3 / auto;
+
+    display: grid;
+    grid-template-columns: 5% auto 5%;
+    grid-template-rows: 5% auto 5%;
+
+    border: 1px solid #d3e0e9;;
+    box-shadow: 5px 5px 15px rgba(1,1,1,.09);
+    background-color: white;
+    border-radius: 4px;
+}
+.container_titulo{
+    grid-area: 1 / 1 / 2 / 4;
+    border-bottom: 1px solid #d3e0e9;
+    padding: 10px 15px;
+}
+#bienvenida{
+    width: 100%;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 1%;
+    grid-area: 2 / 2 / 3 / 3;
+}
+#container_formulario{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    grid-area: 2 / 2 / 3 / 3;
+    padding: 1%;
+    margin-bottom: 40px;
+}

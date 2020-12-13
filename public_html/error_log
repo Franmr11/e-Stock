@@ -1,0 +1,30 @@
+[10-Dec-2020 18:02:47 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Storage' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/EmpresasController.php on line 69
+[11-Dec-2020 17:33:28 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/zgxqdumm/e-stock/app/Http/Controllers/EmpresasController.php on line 30
+[11-Dec-2020 17:34:34 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/zgxqdumm/e-stock/app/Http/Controllers/EmpresasController.php on line 30
+[11-Dec-2020 19:42:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Categoria' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 208
+[11-Dec-2020 19:42:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Categorias' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 208
+[11-Dec-2020 19:43:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Categoria' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 208
+[11-Dec-2020 19:44:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Categoria' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 208
+[11-Dec-2020 20:00:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Proveedor' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 209
+[11-Dec-2020 20:00:33 UTC] PHP Fatal error:  Class 'App\Proveedor' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 209
+[11-Dec-2020 20:12:47 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Empresas' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/HomeController.php on line 56
+[11-Dec-2020 20:13:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Empresas' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/HomeController.php on line 56
+[11-Dec-2020 20:13:13 UTC] PHP Fatal error:  Class 'App\Empresas' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/HomeController.php on line 57
+[11-Dec-2020 20:18:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Producto' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/EmpresasController.php on line 142
+[11-Dec-2020 20:53:01 UTC] PHP Fatal error:  Call to a member function first() on array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 335
+[11-Dec-2020 20:53:11 UTC] PHP Fatal error:  Call to a member function get() on array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 335
+[11-Dec-2020 20:57:04 UTC] PHP Fatal error:  Call to a member function get() on array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 335
+[11-Dec-2020 20:57:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 336
+[11-Dec-2020 20:57:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 336
+[11-Dec-2020 22:25:08 UTC] PHP Fatal error:  Call to a member function find() on array in /home/zgxqdumm/e-stock/app/Http/Controllers/ProductosController.php on line 328
+[11-Dec-2020 23:40:26 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\vra_dump() in /home/zgxqdumm/e-stock/app/Http/Controllers/EmpresasController.php on line 33
+[12-Dec-2020 01:06:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zgxqdumm/e-stock/storage/framework/views/a3774f231c44e0ed99cff54634bd87823642c05d.php on line 83
+[12-Dec-2020 01:07:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zgxqdumm/e-stock/storage/framework/views/a3774f231c44e0ed99cff54634bd87823642c05d.php on line 83
+[12-Dec-2020 01:07:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zgxqdumm/e-stock/storage/framework/views/a3774f231c44e0ed99cff54634bd87823642c05d.php on line 83
+[12-Dec-2020 01:55:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 15
+[12-Dec-2020 02:01:26 UTC] PHP Fatal error:  Call to a member function update() on boolean in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 31
+[12-Dec-2020 02:11:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 31
+[12-Dec-2020 02:12:40 UTC] PHP Fatal error:  Call to a member function update() on boolean in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 32
+[12-Dec-2020 02:14:29 UTC] PHP Fatal error:  Call to a member function update() on boolean in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 33
+[12-Dec-2020 02:57:34 UTC] PHP Fatal error:  Call to a member function update() on boolean in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 33
+[12-Dec-2020 03:17:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Usuario' not found in /home/zgxqdumm/e-stock/app/Http/Controllers/UserController.php on line 47

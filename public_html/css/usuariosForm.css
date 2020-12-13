@@ -1,0 +1,12 @@
+.campos{
+    height: 100%;
+    width: 100%;
+}
+.campos .titulo{
+    margin-top: 10px;
+}.campos input, select, textarea{
+    margin-bottom: 30px;
+}
+img{
+    margin-bottom: 5px
+}

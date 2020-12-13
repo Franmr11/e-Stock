@@ -1,0 +1,9 @@
+apuntes proyecto:
+
+
+
+
+dia 23/11/2020:
+
+- instalar font awesome en laravel:
+	-descargar de la pagina oficial y añadir link.

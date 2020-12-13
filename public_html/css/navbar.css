@@ -1,0 +1,12 @@
+.navbar{
+    background-color:#AF86388C;
+    border-bottom: solid 3px #707070;
+    box-shadow: 5px 5px 15px rgba(1,1,1,.09);
+}
+.navbar-brand{
+    height: 7vh;
+}
+a #logo{
+    height: 100%;
+    filter: drop-shadow(3px 3px 3px rgba(128, 97, 58, 0.51));
+}

@@ -1,0 +1,33 @@
+.acciones_botones{
+
+    padding: 10px;
+
+}
+/* .container_titulo{
+    
+} */
+
+.container_empresas{
+    grid-area: 2 / 2 / 3 / 3;
+    display: grid;
+    grid-template-columns: auto 5%;
+}
+.contenedor_tabla{
+    grid-area: 1 / 1 / 2 / 2;
+}
+.contenedor_add{
+    grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+}
+.enlace_add{
+    margin: auto;
+    margin-right: 0px;
+    margin-top: 15%;
+    border: 1px #3097D1 solid;
+    border-radius: 10px;
+    padding: 10%;
+}
+.enlace_add:hover{
+    border: 1px #216a94 solid;
+    background-color: #3097D166;
+}

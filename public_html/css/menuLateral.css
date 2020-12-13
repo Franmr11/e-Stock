@@ -1,0 +1,27 @@
+#lateral{
+    /* grid (<row-start> / <column-start> / <row-end> / <column-end>) */
+    grid-area: 2 / 3 / 3 / 4;
+    margin-left: 35%;
+    background-color: #fff;
+    border-left: solid 3px #707070;
+}
+#enlaces a:hover{
+    text-decoration: none;
+}
+#enlaces div{
+    padding: 5%;
+    border-bottom: solid 1px #707070;
+    color: #636b6f;
+}
+#enlaces div:hover{
+    background-color: #ceb88e99;
+    color: #808080;
+    cursor: pointer;
+}
+#enlaces i{
+    margin:10px;
+}
+.activo div{
+    background-color: #ceb88e99;
+    color: red;
+}
